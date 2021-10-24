@@ -8,5 +8,8 @@ The purpose of this project is to create a T-Shirt capable of measuring targeted
 * Conductive thread
 * sewable conductive buttons
 * Tight sweatshirt
+* 500 mAH lipo battery
+* 2 meters of normal fabric thread
 
-# 
+# Instructions to build
+1.) Put the shirt inside out and sew normal thread in a cicular pattern
