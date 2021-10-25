@@ -19,6 +19,9 @@ We will then solder the button capes to the flora so that they can easily click 
 
 <img width="202" alt="flora diagram 1" src="https://user-images.githubusercontent.com/81518926/138620818-61707c6b-552e-4f81-89d4-4b5e504a684d.png">
 
+<img width="194" alt="flora diagram" src="https://user-images.githubusercontent.com/81518926/138620882-25674e37-56b0-483c-8013-1c1486816c62.png">
+
+
 
 
 
