@@ -12,4 +12,5 @@ The purpose of this project is to create a T-Shirt capable of measuring targeted
 * 2 meters of normal fabric thread
 
 # Instructions to build
-1.) Put the shirt inside out and sew normal thread in a cicular pattern
+Put the shirt inside out and sew 7 buttons in a circular pattern to match that of the adafruit flora. Then sew 4 buttons placed slightly further away from the flora. Then use conductive thread in order to wire the flora like this 
+
