@@ -16,6 +16,8 @@ Put the shirt inside out and sew 7 buttons in a circular pattern to match that o
 <img width="721" alt="Screenshot 2021-10-24 210325" src="https://user-images.githubusercontent.com/81518926/138620420-aa55c6f4-2496-4e4d-8bde-347a05734a29.png">
 
 We will then solder the button capes to the flora so that they can easily click in to the shirt and become removeable when you put the shirt for wash in the laundry machine. After that we will solder the myoware sensor directly to the flora, since the flora is removable we do not need to add more buttons. The end result should look like this:
+<img width="202" alt="flora diagram 1" src="https://user-images.githubusercontent.com/81518926/138620818-61707c6b-552e-4f81-89d4-4b5e504a684d.png">
+
 
 
 
