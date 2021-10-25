@@ -22,6 +22,7 @@ We will then solder the button capes to the flora so that they can easily click 
 <img width="194" alt="flora diagram" src="https://user-images.githubusercontent.com/81518926/138620882-25674e37-56b0-483c-8013-1c1486816c62.png">
 
 # Software Setup
+Simply plug in the adafruit flora and e sure to download the silicon labs library to use micro usb com devices. I had to because of my computer you might not have to. Then Upload the .ino file and everything should run smoothly.
 
 
 
