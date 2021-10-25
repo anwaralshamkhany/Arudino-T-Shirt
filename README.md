@@ -2,7 +2,7 @@
 The purpose of this project is to create a T-Shirt capable of measuring targeted muscle flex where 3 nodes to measure the muscle flex are embedded into the T-shirt. Some practical applications would be the T-shirts capabilities of measuring to muscle flexion in order to ensure that you are exercising certain muscles when exercising or therapy. The T-shirt uses a spark fun myo ware sensor that has 3 nodes to measure a muscle. you can use an extension cord to place the nodes in different areas such as the back.
 
 # Materials Needed
-* Sparkfun myoware sensor
+* Sparkfun myoware sensor https://www.sparkfun.com/products/14409
 * Adafruit Flora
 * Adafruit bluefruit
 * Conductive thread
@@ -20,6 +20,9 @@ We will then solder the button capes to the flora so that they can easily click 
 <img width="202" alt="flora diagram 1" src="https://user-images.githubusercontent.com/81518926/138620818-61707c6b-552e-4f81-89d4-4b5e504a684d.png">
 
 <img width="194" alt="flora diagram" src="https://user-images.githubusercontent.com/81518926/138620882-25674e37-56b0-483c-8013-1c1486816c62.png">
+
+# Software Setup
+
 
 
 
