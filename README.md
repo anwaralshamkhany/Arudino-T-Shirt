@@ -15,5 +15,7 @@ The purpose of this project is to create a T-Shirt capable of measuring targeted
 Put the shirt inside out and sew 7 buttons in a circular pattern to match that of the adafruit flora. Then sew 4 buttons placed slightly further away from the flora. Then use conductive thread in order to wire the flora like this:
 <img width="721" alt="Screenshot 2021-10-24 210325" src="https://user-images.githubusercontent.com/81518926/138620420-aa55c6f4-2496-4e4d-8bde-347a05734a29.png">
 
+We will then solder the button capes to the flora so that they can easily click in to the shirt and become removeable when you put the shirt for wash in the laundry machine. After that we will solder the myoware sensor directly to the flora, since the flora is removable we do not need to add more buttons. The end result should look like this:
+
 
 
